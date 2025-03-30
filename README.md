@@ -6,7 +6,7 @@ Try the live demo: [Customer Intent Recognition](https://huggingface.co/spaces/l
 
 A machine learning system that identifies customer intent from text queries using multiple deep learning models and LLM integration.
 
-![Demo Screenshot](https://imgur.com/a/sKcmAF6)
+![Demo Screenshot](demo.png)
 
 ## Overview
 
